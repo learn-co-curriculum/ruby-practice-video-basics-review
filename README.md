@@ -12,6 +12,32 @@ format: video
     Your browser does not support the video tag. We recommend using Chrome
 </video>
 
+## Topics covered
+* irb                                                                            
+* Simple Math                                                                    
+* Types                                                                          
+* Message Passing                                                                
+* Syntactic Sugar                                                                
+* Built in Methods
+* Running Ruby From a File                                                       
+* Printing To the Screen                                                         
+* Getting Input From a User                                                      
+* Variable Assignment                                                            
+* String Interpolation                                                           
+* `if` Statements                                                                  
+* Truth and Truthiness                                                           
+* Boolean Comparitors                                                            
+* Methods and Their Return Values                                                
+* Printing To the Screen vs Returning                                            
+* Method Scope                                                                   
+* Errors From Methods                                                            
+* Default Parameters                                                             
+* Named Parameters                                                               
+* Testing With RSpec                                                             
+* `describe`, `it` and Running Tests
+* Loading Other Files                                                            
+* Making Ruby Files Executable          
+
 ## Resources
 
 [Ruby in 20 Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
