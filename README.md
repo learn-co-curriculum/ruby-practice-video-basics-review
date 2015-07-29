@@ -1,8 +1,4 @@
----
-tags: ruby, command line, video
-language: ruby
-format: video
----
+
 
 # Ruby Basics Lecture Review
 [MP4](http://flatiron-videos.s3.amazonaws.com/web-0415/Ruby%20Lecture%20Review.mp4)
