@@ -37,3 +37,5 @@
 ## Resources
 
 [Ruby in 20 Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
+
+<a href='https://learn.co/lessons/ruby_lecture_review' data-visibility='hidden'>View this lesson on Learn.co</a>
