@@ -38,4 +38,4 @@
 
 [Ruby in 20 Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 
-<a href='https://learn.co/lessons/ruby_lecture_review' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby_lecture_review' title='Ruby Basics Lecture Review'>Ruby Basics Lecture Review</a> on Learn.co and start learning to code for free.</p>
